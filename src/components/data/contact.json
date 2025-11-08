@@ -1,0 +1,22 @@
+[
+    {
+        "icon":"li1",
+        "link":"https://www.linkedin.com/in/maanasa-mani-357262223/",
+        "name":"maanasa-mani",
+        "brand":"linkedin /"
+    },
+    {
+        "icon":"gmail1",
+        "link":"mailto:manikant@purdue.edu",
+        "name":"manikant@purdue.edu",
+        "brand":""
+        
+    },
+    {
+        "icon":"gmail1",
+        "link":"mailto:maansamani@gmail.com",
+        "name":"maanasamani@gmail.com",
+        "brand":""
+        
+    }
+]

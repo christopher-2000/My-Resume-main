@@ -1,0 +1,45 @@
+import Data from './data/contact.json'
+import './style.css'
+import icons from './data/icons.js'
+import Visits from './Visits.jsx';
+
+
+
+function Contact(){
+    
+    return(
+        <section>
+            <section className="container dark grad-blue">
+            <h1 className="section-title">Contact Me</h1>
+            <br /><br />
+            <div className='space-between skills'>
+            {
+                Data.map(entry => {
+                    return(
+                        <a href={entry.link} className='git-link' target="_blank" rel="noreferrer noopener">
+                        <div className='dark-entry skill-card center'>
+                            <p className='medium' style={{margin:10}}>{icons[entry.icon]} {entry.brand} {entry.name}</p>
+                        </div>
+                        </a>
+                        
+                    );
+                })
+            }  
+            </div>
+            <br /><br />
+        
+            <Visits />
+        </section>
+        
+           
+        
+        
+        <footer className='grad-progress center'style={{paddingTop:5,paddingBottom:5}}>
+        {icons["copy1"]} <small>Contact me for Research and Collaborations</small>
+        </footer>
+        
+        </section>
+    );
+}
+
+export default Contact;

@@ -1,0 +1,56 @@
+[
+    {
+        "skill": "Mammalian Cell Culture",
+        "Techs": "Cell line maintenance, passaging, cryopreservation",
+        "percent": "85",
+        "level": "Expert"
+    },
+    {
+        "skill": "Molecular Biology Techniques",
+        "Techs": "PCR, qPCR, Gel Electrophoresis",
+        "percent": "90",
+        "level": "Expert"
+    },
+    {
+        "skill": "Cloning",
+        "Techs": "Vector design, Ligation, Transformation",
+        "percent": "85",
+        "level": "Expert"
+    },
+    {
+        "skill": "Protein Purification",
+        "Techs": "Affinity chromatography, SDS-PAGE analysis",
+        "percent": "82",
+        "level": "Expert"
+    },
+    {
+        "skill": "ELISA",
+        "Techs": "Cytokine level analysis",
+        "percent": "88",
+        "level": "Expert"
+    },
+    {
+        "skill": "Drug Assays",
+        "Techs": "Cell viability assays, Dose-response assays",
+        "percent": "85",
+        "level": "Expert"
+    },
+    {
+        "skill": "Plasmid and RNA Isolation",
+        "Techs": "Miniprep, Maxiprep, TRIzol RNA extraction",
+        "percent": "90",
+        "level": "Expert"
+    },
+    {
+        "skill": "Animal Handling",
+        "Techs": "Rodent handling, Dosing, Blood Collection",
+        "percent": "80",
+        "level": "Expert"
+    },
+    {
+        "skill": "Bio Statistics and Analysis",
+        "Techs": "GraphPad Prism, R, Hypothesis testing",
+        "percent": "50",
+        "level": "Intermediate"
+    }
+]
